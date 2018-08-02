@@ -1,0 +1,449 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		130959262112D575004B69C5 /* categoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130959252112D575004B69C5 /* categoriesViewController.swift */; };
+		131B5D9620B1607C00F03209 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B5D9520B1607C00F03209 /* AppDelegate.swift */; };
+		131B5D9820B1607C00F03209 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B5D9720B1607C00F03209 /* ViewController.swift */; };
+		131B5D9B20B1607C00F03209 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 131B5D9920B1607C00F03209 /* Main.storyboard */; };
+		131B5D9D20B1607C00F03209 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 131B5D9C20B1607C00F03209 /* Assets.xcassets */; };
+		131B5DA020B1607C00F03209 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 131B5D9E20B1607C00F03209 /* LaunchScreen.storyboard */; };
+		131B5DA820B167FF00F03209 /* learningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B5DA720B167FF00F03209 /* learningViewController.swift */; };
+		131B5DAD20B1826900F03209 /* 108-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 131B5DA920B1826900F03209 /* 108-512.png */; };
+		131B5DAE20B1826900F03209 /* icon-Certificate-grey.png in Resources */ = {isa = PBXBuildFile; fileRef = 131B5DAA20B1826900F03209 /* icon-Certificate-grey.png */; };
+		131B5DAF20B1826900F03209 /* if_paper-clip-academic-note-exam_2824438.png in Resources */ = {isa = PBXBuildFile; fileRef = 131B5DAB20B1826900F03209 /* if_paper-clip-academic-note-exam_2824438.png */; };
+		131B5DB020B1826900F03209 /* if_settings_38747.png in Resources */ = {isa = PBXBuildFile; fileRef = 131B5DAC20B1826900F03209 /* if_settings_38747.png */; };
+		1329B5A221045E4B0064CBF9 /* jaurnals22ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1329B5A121045E4B0064CBF9 /* jaurnals22ViewController.swift */; };
+		13783CD320C9770900967693 /* JournalsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13783CD220C9770700967693 /* JournalsDetailViewController.swift */; };
+		13AB7AB420B7073B00D26E09 /* ayurvedaExaminationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13AB7AB320B7073B00D26E09 /* ayurvedaExaminationController.swift */; };
+		13AB7AB620BA974C00D26E09 /* coursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13AB7AB520BA974B00D26E09 /* coursesViewController.swift */; };
+		13AB7AB820BA977E00D26E09 /* brahmToolViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13AB7AB720BA977E00D26E09 /* brahmToolViewController.swift */; };
+		13AB7ABA20BA97AA00D26E09 /* E-LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13AB7AB920BA97AA00D26E09 /* E-LibraryViewController.swift */; };
+		13AB7ABC20BD0EE400D26E09 /* customViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13AB7ABB20BD0EE400D26E09 /* customViewController.swift */; };
+		13AB7ABE20BD1F2300D26E09 /* customTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13AB7ABD20BD1F2300D26E09 /* customTableViewCell.swift */; };
+		4DAB01266BC5F7DF63F9FE12 /* Pods_NirogStreet.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 552A50D191398825B299EB4E /* Pods_NirogStreet.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		130959252112D575004B69C5 /* categoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = categoriesViewController.swift; sourceTree = "<group>"; };
+		131B5D9220B1607C00F03209 /* NirogStreet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NirogStreet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		131B5D9520B1607C00F03209 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		131B5D9720B1607C00F03209 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		131B5D9A20B1607C00F03209 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		131B5D9C20B1607C00F03209 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		131B5D9F20B1607C00F03209 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		131B5DA120B1607C00F03209 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		131B5DA720B167FF00F03209 /* learningViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = learningViewController.swift; sourceTree = "<group>"; };
+		131B5DA920B1826900F03209 /* 108-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "108-512.png"; sourceTree = "<group>"; };
+		131B5DAA20B1826900F03209 /* icon-Certificate-grey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-Certificate-grey.png"; sourceTree = "<group>"; };
+		131B5DAB20B1826900F03209 /* if_paper-clip-academic-note-exam_2824438.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "if_paper-clip-academic-note-exam_2824438.png"; sourceTree = "<group>"; };
+		131B5DAC20B1826900F03209 /* if_settings_38747.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_settings_38747.png; sourceTree = "<group>"; };
+		1329B5A121045E4B0064CBF9 /* jaurnals22ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jaurnals22ViewController.swift; sourceTree = "<group>"; };
+		13783CD220C9770700967693 /* JournalsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JournalsDetailViewController.swift; sourceTree = "<group>"; };
+		13AB7AB320B7073B00D26E09 /* ayurvedaExaminationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ayurvedaExaminationController.swift; sourceTree = "<group>"; };
+		13AB7AB520BA974B00D26E09 /* coursesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = coursesViewController.swift; sourceTree = "<group>"; };
+		13AB7AB720BA977E00D26E09 /* brahmToolViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = brahmToolViewController.swift; sourceTree = "<group>"; };
+		13AB7AB920BA97AA00D26E09 /* E-LibraryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "E-LibraryViewController.swift"; sourceTree = "<group>"; };
+		13AB7ABB20BD0EE400D26E09 /* customViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customViewController.swift; sourceTree = "<group>"; };
+		13AB7ABD20BD1F2300D26E09 /* customTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customTableViewCell.swift; sourceTree = "<group>"; };
+		23CA34659E98D091A543627F /* Pods-NirogStreet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NirogStreet.release.xcconfig"; path = "Pods/Target Support Files/Pods-NirogStreet/Pods-NirogStreet.release.xcconfig"; sourceTree = "<group>"; };
+		552A50D191398825B299EB4E /* Pods_NirogStreet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NirogStreet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE4BB3427F6B9660306F0BC2 /* Pods-NirogStreet.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NirogStreet.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NirogStreet/Pods-NirogStreet.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		131B5D8F20B1607A00F03209 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4DAB01266BC5F7DF63F9FE12 /* Pods_NirogStreet.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		131B5D8920B1607A00F03209 = {
+			isa = PBXGroup;
+			children = (
+				131B5D9420B1607C00F03209 /* NirogStreet */,
+				131B5D9320B1607C00F03209 /* Products */,
+				19A6BA9FAF479E7C03A00A15 /* Pods */,
+				512689A0CD15374AB349A4EB /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		131B5D9320B1607C00F03209 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				131B5D9220B1607C00F03209 /* NirogStreet.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		131B5D9420B1607C00F03209 /* NirogStreet */ = {
+			isa = PBXGroup;
+			children = (
+				131B5D9520B1607C00F03209 /* AppDelegate.swift */,
+				131B5D9720B1607C00F03209 /* ViewController.swift */,
+				131B5D9920B1607C00F03209 /* Main.storyboard */,
+				130959252112D575004B69C5 /* categoriesViewController.swift */,
+				13783CD220C9770700967693 /* JournalsDetailViewController.swift */,
+				1329B5A121045E4B0064CBF9 /* jaurnals22ViewController.swift */,
+				13AB7ABD20BD1F2300D26E09 /* customTableViewCell.swift */,
+				13AB7ABB20BD0EE400D26E09 /* customViewController.swift */,
+				13AB7AB520BA974B00D26E09 /* coursesViewController.swift */,
+				13AB7AB720BA977E00D26E09 /* brahmToolViewController.swift */,
+				13AB7AB920BA97AA00D26E09 /* E-LibraryViewController.swift */,
+				13AB7AB320B7073B00D26E09 /* ayurvedaExaminationController.swift */,
+				131B5DA720B167FF00F03209 /* learningViewController.swift */,
+				131B5D9C20B1607C00F03209 /* Assets.xcassets */,
+				131B5DA920B1826900F03209 /* 108-512.png */,
+				131B5DAA20B1826900F03209 /* icon-Certificate-grey.png */,
+				131B5DAB20B1826900F03209 /* if_paper-clip-academic-note-exam_2824438.png */,
+				131B5DAC20B1826900F03209 /* if_settings_38747.png */,
+				131B5D9E20B1607C00F03209 /* LaunchScreen.storyboard */,
+				131B5DA120B1607C00F03209 /* Info.plist */,
+			);
+			path = NirogStreet;
+			sourceTree = "<group>";
+		};
+		19A6BA9FAF479E7C03A00A15 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EE4BB3427F6B9660306F0BC2 /* Pods-NirogStreet.debug.xcconfig */,
+				23CA34659E98D091A543627F /* Pods-NirogStreet.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		512689A0CD15374AB349A4EB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				552A50D191398825B299EB4E /* Pods_NirogStreet.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		131B5D9120B1607A00F03209 /* NirogStreet */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 131B5DA420B1607C00F03209 /* Build configuration list for PBXNativeTarget "NirogStreet" */;
+			buildPhases = (
+				65566562394446EA977AB7FE /* [CP] Check Pods Manifest.lock */,
+				131B5D8E20B1607A00F03209 /* Sources */,
+				131B5D8F20B1607A00F03209 /* Frameworks */,
+				131B5D9020B1607A00F03209 /* Resources */,
+				29D51FEDE0AA243136DB2FBB /* [CP] Embed Pods Frameworks */,
+				C2C449C3CAC9E16E93731A65 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NirogStreet;
+			productName = NirogStreet;
+			productReference = 131B5D9220B1607C00F03209 /* NirogStreet.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		131B5D8A20B1607A00F03209 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Diwakar Pandey";
+				TargetAttributes = {
+					131B5D9120B1607A00F03209 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3C6LBXZFQZ;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 131B5D8D20B1607A00F03209 /* Build configuration list for PBXProject "NirogStreet" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 131B5D8920B1607A00F03209;
+			productRefGroup = 131B5D9320B1607C00F03209 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				131B5D9120B1607A00F03209 /* NirogStreet */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		131B5D9020B1607A00F03209 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				131B5DAD20B1826900F03209 /* 108-512.png in Resources */,
+				131B5DB020B1826900F03209 /* if_settings_38747.png in Resources */,
+				131B5DA020B1607C00F03209 /* LaunchScreen.storyboard in Resources */,
+				131B5DAE20B1826900F03209 /* icon-Certificate-grey.png in Resources */,
+				131B5D9D20B1607C00F03209 /* Assets.xcassets in Resources */,
+				131B5D9B20B1607C00F03209 /* Main.storyboard in Resources */,
+				131B5DAF20B1826900F03209 /* if_paper-clip-academic-note-exam_2824438.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		29D51FEDE0AA243136DB2FBB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-NirogStreet/Pods-NirogStreet-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-NirogStreet/Pods-NirogStreet-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		65566562394446EA977AB7FE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NirogStreet-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C2C449C3CAC9E16E93731A65 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-NirogStreet/Pods-NirogStreet-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		131B5D8E20B1607A00F03209 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13AB7AB620BA974C00D26E09 /* coursesViewController.swift in Sources */,
+				1329B5A221045E4B0064CBF9 /* jaurnals22ViewController.swift in Sources */,
+				13AB7AB420B7073B00D26E09 /* ayurvedaExaminationController.swift in Sources */,
+				13AB7ABA20BA97AA00D26E09 /* E-LibraryViewController.swift in Sources */,
+				131B5DA820B167FF00F03209 /* learningViewController.swift in Sources */,
+				131B5D9820B1607C00F03209 /* ViewController.swift in Sources */,
+				131B5D9620B1607C00F03209 /* AppDelegate.swift in Sources */,
+				13AB7AB820BA977E00D26E09 /* brahmToolViewController.swift in Sources */,
+				13783CD320C9770900967693 /* JournalsDetailViewController.swift in Sources */,
+				13AB7ABC20BD0EE400D26E09 /* customViewController.swift in Sources */,
+				130959262112D575004B69C5 /* categoriesViewController.swift in Sources */,
+				13AB7ABE20BD1F2300D26E09 /* customTableViewCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		131B5D9920B1607C00F03209 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				131B5D9A20B1607C00F03209 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		131B5D9E20B1607C00F03209 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				131B5D9F20B1607C00F03209 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		131B5DA220B1607C00F03209 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		131B5DA320B1607C00F03209 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		131B5DA520B1607C00F03209 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EE4BB3427F6B9660306F0BC2 /* Pods-NirogStreet.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3C6LBXZFQZ;
+				INFOPLIST_FILE = NirogStreet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = diwakar3105.NirogStreet;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		131B5DA620B1607C00F03209 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 23CA34659E98D091A543627F /* Pods-NirogStreet.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3C6LBXZFQZ;
+				INFOPLIST_FILE = NirogStreet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = diwakar3105.NirogStreet;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		131B5D8D20B1607A00F03209 /* Build configuration list for PBXProject "NirogStreet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				131B5DA220B1607C00F03209 /* Debug */,
+				131B5DA320B1607C00F03209 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		131B5DA420B1607C00F03209 /* Build configuration list for PBXNativeTarget "NirogStreet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				131B5DA520B1607C00F03209 /* Debug */,
+				131B5DA620B1607C00F03209 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 131B5D8A20B1607A00F03209 /* Project object */;
+}
